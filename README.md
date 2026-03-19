@@ -44,9 +44,26 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/bbb43224-0814-4098-a94b-9c257d4e14ff" />
 
-### Name:
-### Register Number:
+<img width="1902" height="885" alt="image" src="https://github.com/user-attachments/assets/44f71eb6-697e-49e8-b2d6-c900905efb92" />
+
+<img width="1906" height="884" alt="image" src="https://github.com/user-attachments/assets/57797fd2-126f-4c7d-a768-3f16153dc53a" />
+
+<img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/9c6efde3-4fcd-490f-8a47-69f2ea33b6c4" />
+
+<img width="1919" height="888" alt="image" src="https://github.com/user-attachments/assets/aea04185-489d-4cc6-85aa-14af67044cf8" />
+
+<img width="1917" height="888" alt="image" src="https://github.com/user-attachments/assets/58270ffb-cbbe-4e1b-a26f-f283371bd09a" />
+
+
+
+
+
+
+
+### Name: AJAYRAJA RATHINAM T
+### Register Number: 212224240006
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
